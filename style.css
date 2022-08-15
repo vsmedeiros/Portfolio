@@ -319,13 +319,13 @@ footer {
   border-radius: 4px;
 }
 .skills .skills-content .right .html::before {
-  width: 100%;
+  width: 66%;
 }
 .skills .skills-content .right .css::before {
-  width: 100%;
+  width: 66%;
 }
 .skills .skills-content .right .js::before {
-  width: 100%;
+  width: 66%;
 }
 .skills .skills-content .right .react::before {
   width: 66%;
